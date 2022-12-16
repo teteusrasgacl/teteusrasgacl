@@ -8,4 +8,4 @@ livros, animes, músicas e jogos.
 # 😎ESTOU APRENDENDO
 aula computacional e inglês.
 # ⭐CONTATOS
-Matheus.cgaves.santos@escola.pr.gov.br
+Matheus.caves.santos@escola.pr.gov.br
